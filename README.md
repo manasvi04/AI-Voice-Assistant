@@ -10,11 +10,16 @@ Welcome to **Zia**, your personal AI voice assistant! Built using Python, Zia li
 - ✅ **Weather Updates**: Provides real-time weather details. 🌤️
 - ✅ **System Controls**: Opens Notepad, Calculator, VLC, and more. 🖥️
 - ✅ **Fun Features**: Tells jokes, rolls dice, and suggests creative ideas. 🎭🎲
-- ✅ **Battery & CPU Monitoring**: Keeps track of your system’s performance. 🔋💻
+- ✅ **Battery & CPU Monitoring**: Keeps track of your system’s performance. 🔋🖥️
 - ✅ **News Headlines**: Fetches the latest headlines from the Times of India. 📰
 - ✅ **Typing Test**: Helps measure your typing speed. ⌨️
 - ✅ **Countdown Timer**: Starts a timer for a user-defined duration. ⏳
 - ✅ **Camera Capture**: Snaps a photo using your webcam. 📸
+- ✅ **Open Websites**: Instantly opens YouTube, Stack Overflow, and other useful sites. 🛠️
+- ✅ **Voice-Controlled Idea Generator**: Suggests creative ideas for parties, gifts, and celebrations. 📚🎉
+- ✅ **Dice Rolling Game**: Simulates rolling a dice for random numbers. 🎲
+- ✅ **Ask Computational Questions**: Uses WolframAlpha for answering complex queries. 🤖
+- ✅ **Log Off/Shutdown System**: Allows voice-controlled PC log-off or shutdown. 🔒
 
 ## 📦 Installation
 Follow these steps to set up **Zia** on your system:
@@ -44,5 +49,5 @@ Follow these steps to set up **Zia** on your system:
 
 
 
-🌟 *Zia is here to assist you anytime—just ask!* 🎙️💡
+🌟 *Zia is here to assist you anytime—just ask!* 🎧💡
 
