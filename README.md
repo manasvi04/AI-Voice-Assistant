@@ -30,7 +30,7 @@ Follow these steps to set up **Zia** on your system:
    pip install speechrecognition pyttsx3 wikipedia requests pyjokes psutil wolframalpha ecapture
    ```
 
-## 🎤 How to Use
+##  How to Use
 1. **Run the script:**
    ```sh
    python virtual.py
